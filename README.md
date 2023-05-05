@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Pursuing my first year of Bachelor's in Technology with a major in Electronics and a minor in Computer Science<br><br>🏆Currently Devrel @Blotic_web3Community & Google DSC BVP Pune.<br><br>🧑🏻‍💻Open-source and Web3 enthusiast.<br><br>💡I am always open to collaborating on projects and innovative/disruptive ideas.<br><br>💻Learning JavaScript.<br><br>🫱🏻‍🫲🏻Find out more about me & feel free follow to connect with me here :)
+🎓Pursuing my first year of Bachelor's in Technology with a major in Electronics and a minor in Computer Science<br><br>🏆Currently Devrel @Blotic_web3 Community-based StartUp & Google DSC BVP Pune.<br><br>🧑🏻‍💻Open-source and Web3 enthusiast.<br><br>💡I am always open to collaborating on projects and innovative/disruptive ideas.<br><br>💻Learning JavaScript.<br><br>🫱🏻‍🫲🏻Find out more about me & feel free follow to connect with me here :)
 
 
 ## 🌐 Socials:
