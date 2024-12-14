@@ -43,7 +43,7 @@ Currently, from Jan 2024 onwards I'm doing smart contract security learnings and
 | Projects                                                           |  Description      | Link |  
 | :---------------------------------------------------------------- | :------------------------ | :--------- |
 Ethernaut CTF | Capture the flag by OpenZeppelin Team | [Resource Link](https://ethernaut.openzeppelin.com/) |  
-Damn Vulnerable Defi V4 | Capture the flag by The Red Guild Team |  [Resource Link](https://www.damnvulnerabledefi.xyz/)|
+Damn Vulnerable Defi V4 (In Process) | Capture the flag by The Red Guild Team |  [Resource Link](https://www.damnvulnerabledefi.xyz/)|
 Lending Borrowing Vulnerabilities | Atricle |  [Resource Link](https://dacian.me/lending-borrowing-defi-attacks) |
 Uniswap V3 DevelomentBook	| Book | [Resource Link](https://uniswapv3book.com/) 
 Uniswap V2 Cyfrin Updraft	| Cyfrin Updraft Course |  [Resource Link](https://updraft.cyfrin.io/courses/uniswap-v2) 
