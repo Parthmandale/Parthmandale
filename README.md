@@ -3,15 +3,15 @@
 
 I'm a security researcher highly passionate about smart contract security with a proven track record of consistently uncovering vulnerabilities in DeFi protocols and performing at multiple audit contests. 
 
-I've experience in auditing projects related to Lending Borrowing, DAO, cross-contract chains, Staking & Restaking, stablecoin, and AMM. Currently, I'm proficient in auditing Solidity codebases and I'm also trying to learn and audit codebases in different frameworks. 
+I've experience auditing projects in the categories of **Lending-Borrowing, DAO, Cross-Contract chains, Staking/Restaking, Stablecoin, and AMM**. Currently, I'm proficient in auditing Solidity codebases and I'm also trying to learn and audit codebases in different frameworks. 
 
 ## Background
 
-In my past job, I first worked as DevRel for a blockchain-based startup, and later I switched to a different Blockchain-based company as an on-site project intern. Here's my [LinkedIn](https://www.linkedin.com/in/parth-mandale-0b7014247/).
+In my past job, I first worked as a DevRel for a blockchain-based startup, and later I switched to a different Blockchain-based company as an on-site project intern. Here's my [LinkedIn](https://www.linkedin.com/in/parth-mandale-0b7014247/).
 
-Currently, from Jan 2024, I'm doing security audit contests on different platforms like [sherlock](https://www.sherlock.xyz/), [Cantina](https://cantina.xyz/), [code4rena](https://code4rena.com/) and I'm also open for any private audit!  
+Currently, from Jan 2024 onwards I'm doing smart contract security learnings and audit contests on different platforms like [sherlock](https://www.sherlock.xyz/), [Cantina](https://cantina.xyz/), [code4rena](https://code4rena.com/) and I'm also open for any private audit!  
 
-- Contact me via [Twitter](https://twitter.com/ParthMandale) (or) Telegram username- ParthMandale
+- ***Contact me via [Twitter](https://twitter.com/ParthMandale) (or) Telegram username - ParthMandale***
 
 ## Top Protocols Secured
 - [Mento](https://www.zetachain.com/)
@@ -45,11 +45,11 @@ Currently, from Jan 2024, I'm doing security audit contests on different platfor
 Ethernaut CTF | Capture the flag by OpenZeppelin Team | [Resource Link](https://ethernaut.openzeppelin.com/) |  
 Damn Vulnerable Defi V4 | Capture the flag by The Red Guild Team |  [Resource Link](https://www.damnvulnerabledefi.xyz/)|
 Lending Borrowing Vulnerabilities | Atricle |  [Resource Link](https://dacian.me/lending-borrowing-defi-attacks) |
-Uniswap V3 DevelomentBook	| AMM | [Resource Link](https://uniswapv3book.com/) 
-Uniswap V2 Cyfrin Updraft	| AMM |  [Resource Link](https://updraft.cyfrin.io/courses/uniswap-v2) 
+Uniswap V3 DevelomentBook	| Book | [Resource Link](https://uniswapv3book.com/) 
+Uniswap V2 Cyfrin Updraft	| Cyfrin Updraft Course |  [Resource Link](https://updraft.cyfrin.io/courses/uniswap-v2) 
 Advanced Web3 Security Course - Part 1 | Owen Thrum's Course on Advancing as SR | [Resource Link](https://www.youtube.com/watch?v=DRZogmD647U) |
 Advanced Web3 Security Course - Part 2 |  Owen Thrum's Course on Advancing as SR | [Resource Link](https://www.youtube.com/watch?v=zLnxRvf6IMA) |
-Smart Contract Security	| Smart Contract Security course of Cyfrin Updraft | [Resource Link](https://updraft.cyfrin.io/courses/security) |
-Smart Contract Development | Smart Contract Development course of Cyfrin Updraft | [Resource Link](https://updraft.cyfrin.io/courses/advanced-foundry)
+Smart Contract Security	| Smart Contract Security Cyfrin Updraft course | [Resource Link](https://updraft.cyfrin.io/courses/security) |
+Smart Contract Development | Smart Contract Development Cyfrin Updraft course | [Resource Link](https://updraft.cyfrin.io/courses/advanced-foundry)
 DeFi & Solidity	Solidity | Dolidity Docs | [Resource Link](https://docs.soliditylang.org/en/v0.8.23/index.html#solidity) |
 Mastering Ethereum | Book | [Resource Link](https://github.com/ethereumbook/ethereumbook)|
