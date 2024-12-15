@@ -30,12 +30,12 @@ Currently, from Jan 2024 onwards I'm doing smart contract security learnings and
 | [LoopFi](https://code4rena.com/audits/2024-06-size)           |  lending market(LRT)   | Code4rena  | - | [📄](https://code4rena.com/reports/2024-05-loop)  |
 | [Ethos Social Contracts](https://audits.sherlock.xyz/contests/)   | Social Engemgment   | Sherlock | - | 📄 |
 | [Winnables Raffles	](https://audits.sherlock.xyz/contests/516)   |  Raffle | Sherlock  | - | 📄  |
-| Shadow Audit - Beedle | Smart Contract | Codehawks | - | 📄 |
-| Shadow Audit - ThunderLoan	| Smart Contract	| CodeHawks | - |	📄 |
-| Shadow Audit - TSwap |	Smart Contract |	CodeHawks | - |	📄 | 
-| Shadow Audit - TSwap | Smart Contract	| CodeHawks | - |	📄 | 
-| Shadow Audit - Puppy Raffle	| Smart Contract | CodeHawks | -	| 📄 |
-| Shadow Audit - PasswordStore	| Smart Contract	| CodeHawks | - |	📄 |
+| Shadow Audit - Beedle | Smart Contract | Codehawks |  | 📄 |
+| Shadow Audit - ThunderLoan	| Smart Contract	| CodeHawks |  |	📄 |
+| Shadow Audit - TSwap |	Smart Contract |	CodeHawks |  |	📄 | 
+| Shadow Audit - TSwap | Smart Contract	| CodeHawks |  |	📄 | 
+| Shadow Audit - Puppy Raffle	| Smart Contract | CodeHawks | 	| 📄 |
+| Shadow Audit - PasswordStore	| Smart Contract	| CodeHawks | |	📄 |
 
 
 ## Learnings & CTFS
@@ -43,7 +43,7 @@ Currently, from Jan 2024 onwards I'm doing smart contract security learnings and
 | Projects                                                           |  Description      | Link |  
 | :---------------------------------------------------------------- | :------------------------ | :--------- |
 Ethernaut CTF | Capture the flag by OpenZeppelin Team | [Resource Link](https://ethernaut.openzeppelin.com/) |  
-Damn Vulnerable Defi V4 (In Process) | Capture the flag by The Red Guild Team |  [Resource Link](https://www.damnvulnerabledefi.xyz/)|
+Damn Vulnerable Defi V4 (In Progress) | Capture the flag by The Red Guild Team |  [Resource Link](https://www.damnvulnerabledefi.xyz/)|
 Lending Borrowing Vulnerabilities | Atricle |  [Resource Link](https://dacian.me/lending-borrowing-defi-attacks) |
 Uniswap V3 DevelomentBook	| Book | [Resource Link](https://uniswapv3book.com/) 
 Uniswap V2 Cyfrin Updraft	| Cyfrin Updraft Course |  [Resource Link](https://updraft.cyfrin.io/courses/uniswap-v2) 
@@ -51,5 +51,5 @@ Advanced Web3 Security Course - Part 1 | Owen Thrum's Course on Advancing as SR 
 Advanced Web3 Security Course - Part 2 |  Owen Thrum's Course on Advancing as SR | [Resource Link](https://www.youtube.com/watch?v=zLnxRvf6IMA) |
 Smart Contract Security	| Smart Contract Security Cyfrin Updraft course | [Resource Link](https://updraft.cyfrin.io/courses/security) |
 Smart Contract Development | Smart Contract Development Cyfrin Updraft course | [Resource Link](https://updraft.cyfrin.io/courses/advanced-foundry)
-DeFi & Solidity	Solidity | Dolidity Docs | [Resource Link](https://docs.soliditylang.org/en/v0.8.23/index.html#solidity) |
+DeFi & Solidity | Solidity Docs | [Resource Link](https://docs.soliditylang.org/en/v0.8.23/index.html#solidity) |
 Mastering Ethereum | Book | [Resource Link](https://github.com/ethereumbook/ethereumbook)|
