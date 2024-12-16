@@ -23,6 +23,7 @@ Currently, from Jan 2024 onwards I'm doing smart contract security learnings and
 
 | Projects                                                           | Project Description      | Platform   | Result |                         Report                         |  
 | :---------------------------------------------------------------- | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
+| [Autonomint Colored Dollar V1](https://audits.sherlock.xyz/contests/569) |  100% synthetic LTV for lending | Sherlock | TBD | TBD(ongoing audit) |
 | [Mento](https://audits.sherlock.xyz/contests/187)                 | Decentralized Stablecoin Platform | Sherlock | [1st 🥇](https://audits.sherlock.xyz/contests/187?filter=results)  | [📄](https://audits.sherlock.xyz/contests/187/report)  |
 | [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | Omni/Cross-chain universal Blockchain  | Cantina | - | 📄 |
 | [Boost](https://audits.sherlock.xyz/contests/426)             | Decentralized growth engine, Incentive  | Sherlock  | - | [📄](https://audits.sherlock.xyz/contests/426/report)  |
