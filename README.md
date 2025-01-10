@@ -3,7 +3,7 @@
 
 I'm a security researcher highly passionate about smart contract security with a proven track record of consistently uncovering vulnerabilities in DeFi protocols and performing at multiple audit contests. 
 
-I've experience auditing projects in the categories of **Lending-Borrowing, DAO, Cross-Contract chains, Staking/Restaking, Stablecoin, and AMM**. Currently, I'm proficient in auditing Solidity codebases and I'm also trying to learn and audit codebases in different frameworks. 
+I've experience in auditing projects in the categories of **Lending-Borrowing, DAO, Cross-Contract chains, Staking/Restaking, Stablecoin, and AMM**. Currently, I'm proficient in auditing Solidity codebases and I'm also trying to learn and audit codebases in different frameworks. 
 
 ## Background
 
