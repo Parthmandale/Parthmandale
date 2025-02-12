@@ -27,9 +27,9 @@ Currently, from Jan 2024 onwards I'm doing smart contract security learnings and
 | [Silo Finance V2](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7)            | Isolated lending markets | Cantina  | TBD | 📄 |
 | [Reserve Protocol](https://cantina.xyz/competitions/9dfca0bc-a7bf-482e-a3df-4eb861f55c4f)            | Managing multi-asset portfolios | Cantina  | TBD | 📄 |
 | [Autonomint Colored Dollar V1](https://audits.sherlock.xyz/contests/569) |  100% synthetic LTV for lending | Sherlock | 21 | [📄](https://audits.sherlock.xyz/contests/569/report) |
-| [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | Omni/Cross-chain universal Blockchain  | Cantina | - | 📄 |
-| [Boost](https://audits.sherlock.xyz/contests/426)             | Decentralized growth engine, Incentive  | Sherlock  | - | [📄](https://audits.sherlock.xyz/contests/426/report)  |
-| [Size](https://code4rena.com/audits/2024-06-size)                   | Lending/Borrowing, unified liquidity | Code4rena | - | [📄](https://code4rena.com/reports/2024-06-size)  |
+| [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | Omni/Cross-chain universal Blockchain  | Cantina | - | [📄](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e)  |
+| [Boost](https://audits.sherlock.xyz/contests/426)             | Decentralized Incentive growth engine | Sherlock  | - | [📄](https://audits.sherlock.xyz/contests/426/report)  |
+| [Size](https://code4rena.com/audits/2024-06-size)             | Lending/Borrowing, unified liquidity | Code4rena | - | [📄](https://code4rena.com/reports/2024-06-size)  |
 | [LoopFi](https://code4rena.com/audits/2024-06-size)           |  lending market(LRT)   | Code4rena  | - | [📄](https://code4rena.com/reports/2024-05-loop)  |
 | Shadow Audit - Beedle | Smart Contract | Codehawks |  | 📄 |
 | Shadow Audit - ThunderLoan	| Smart Contract	| CodeHawks |  |	📄 |
