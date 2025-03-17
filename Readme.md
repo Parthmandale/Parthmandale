@@ -7,7 +7,7 @@ I've experience in auditing projects in the categories of **Lending-Borrowing, D
 
 ## Background
 
-In my past job, I first worked as a DevRel for a blockchain-based startup, and later I switched to a different Blockchain-based company as an on-site project intern. Here's my [LinkedIn](https://www.linkedin.com/in/parth-mandale-0b7014247/).
+In my past job, I first worked as a DevRel for a blockchain-based startup, and later I switched to a different Blockchain-based company as an on-site project intern.
 
 Currently, from Jan 2024 onwards I'm doing smart contract security learnings and audit contests on different platforms like [sherlock](https://www.sherlock.xyz/), [Cantina](https://cantina.xyz/), [code4rena](https://code4rena.com/) and I'm also open for any private audits and potential internship opportunities.  
 
