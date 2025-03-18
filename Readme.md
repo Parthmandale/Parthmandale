@@ -16,9 +16,7 @@ Currently, from Jan 2024 onwards I'm doing smart contract security learnings and
 ## Top Protocols Secured
 - [Silo Finance V2](https://www.silo.finance/) 1st Rank🥇
 - [Mento](https://www.zetachain.com/) 1st Rank🥇
-- [ZetaChain](https://www.zetachain.com/)
-- [Size Protocol](https://www.size.credit/)
-- [LoopFi](https://www.loopfi.xyz/)
+
 
 ## Audit
 
