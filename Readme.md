@@ -25,7 +25,7 @@ Currently, from Jan 2024 onwards, I'm doing smart contract security learnings an
 | [Silo Finance V2](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/leaderboard)            | Isolated lending markets | Cantina  | #**1**/410 🥇| 📄 |
 | [Mento](https://audits.sherlock.xyz/contests/187)                 | Decentralized Stablecoin Platform | Sherlock | #**1**/27 🥇| [📄](https://audits.sherlock.xyz/contests/187/report)  |
 | [Reserve Protocol](https://cantina.xyz/competitions/9dfca0bc-a7bf-482e-a3df-4eb861f55c4f)  | Managing multi-asset portfolios | Cantina  | #**8**/263 | 📄 |
-| [Blend V2](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) | (Stellar, Rust) Liquidity Protocol | Code4rena | #**17**/654 (account - 0xabhay) | 📄 |
+| [Blend V2](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) | (Stellar, Rust) Liquidity Protocol | Code4rena | #**17**/654 (account used - `0xabhay`) | 📄 |
 | [Autonomint Colored Dollar V1](https://audits.sherlock.xyz/contests/569) |  100% synthetic LTV for lending | Sherlock | #**21**/347 | [📄](https://audits.sherlock.xyz/contests/569/report) |
 | [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | Omni/Cross-chain universal Blockchain  | Cantina | - | [📄](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e)  |
 | [Boost](https://audits.sherlock.xyz/contests/426)             | Decentralized Incentive growth engine | Sherlock  | - | [📄](https://audits.sherlock.xyz/contests/426/report)  |
