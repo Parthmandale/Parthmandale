@@ -31,7 +31,11 @@ Currently, from Jan 2024 onwards, I'm doing smart contract security learnings an
 | [Size](https://code4rena.com/audits/2024-06-size)             | Lending/Borrowing, unified liquidity | Code4rena | - | [📄](https://code4rena.com/reports/2024-06-size)  |
 | [LoopFi](https://code4rena.com/audits/2024-06-size)           |  lending market(LRT)   | Code4rena  | - | [📄](https://code4rena.com/reports/2024-05-loop)  |
 
+## Private Audits
 
+| Protocol                                                         | Lang - ecosystem      | Description | Provider   | Findings |                         Report                    |  
+| :---------------------------------------------------------------- | :------------------------ | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
+| Daos Live           | ✳️ Solidity, Abstract chain | DAOs Launchpad, Vesting | Shieldify  | 21 Issues (2C, 4H, 4M, 7L, 4I) | [📄](https://github.com/shieldify-security/audits-portfolio-md/blob/main/DaosLive-Security-Review.md)
 
 ## Learnings & CTFS
 
