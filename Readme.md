@@ -36,6 +36,7 @@ Currently, from Jan 2024 onwards, I'm doing smart contract security learnings an
 | Protocol                                                         | Lang - ecosystem      | Description | Provider   | Findings |                         Report                    |  
 | :---------------------------------------------------------------- | :------------------------ | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
 | Daos Live           | ✳️ Solidity, Abstract chain | DAOs Launchpad, Vesting | Shieldify  | 21 Issues (2C, 4H, 4M, 7L, 4I) | [📄](https://github.com/shieldify-security/audits-portfolio-md/blob/main/DaosLive-Security-Review.md)
+| Gatekeeper           | 🦀 Rust, Solana chain | Cross Program Invocation | Pashov  | 7 Issues (2C, 2M, 4L) | Soon 📄
 
 ## Learnings & CTFS
 
