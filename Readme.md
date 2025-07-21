@@ -1,7 +1,7 @@
 
 # Portfolio
 
-I'm a security researcher highly passionate about smart contract security with a proven track record of consistently uncovering vulnerabilities in DeFi protocols and performing at multiple audit contests. 
+I'm a security researcher highly passionate about smart contract security with a proven track record of consistently uncovering vulnerabilities **(100+ HM)** in DeFi protocols and performing at multiple audit contests. 
 
 I've experience in auditing projects in the categories of **Lending-Borrowing, DAO, Cross-Contract chains, Staking/Restaking, Stablecoin, and AMM**. Currently, I'm proficient in auditing Solidity codebases and I'm also trying to learn and audit codebases in different frameworks. 
 
@@ -37,19 +37,4 @@ Currently, from Jan 2024 onwards, I'm doing smart contract security learnings an
 | :---------------------------------------------------------------- | :------------------------ | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
 | Daos Live           | ✳️ Solidity, Abstract chain | DAOs Launchpad, Vesting | Shieldify  | 21 Issues (2C, 4H, 4M, 7L, 4I) | [📄](https://github.com/shieldify-security/audits-portfolio-md/blob/main/DaosLive-Security-Review.md)
 | Gatekeeper           | 🦀 Rust, Solana chain | Cross Program Invocation | Pashov  | 7 Issues (2C, 2M, 4L) | Soon 📄
-
-## Learnings & CTFS
-
-| Projects                                                           |  Description      | Link |  
-| :---------------------------------------------------------------- | :------------------------ | :--------- |
-Ethernaut CTF | Capture the flag by OpenZeppelin Team | [Resource Link](https://ethernaut.openzeppelin.com/) |  
-Damn Vulnerable Defi V4 (In Progress) | Capture the flag by The Red Guild Team |  [Resource Link](https://www.damnvulnerabledefi.xyz/)|
-Lending Borrowing Vulnerabilities | Atricle |  [Resource Link](https://dacian.me/lending-borrowing-defi-attacks) |
-Uniswap V3 DevelomentBook	| Book | [Resource Link](https://uniswapv3book.com/) 
-Uniswap V2 Cyfrin Updraft	| Cyfrin Updraft Course |  [Resource Link](https://updraft.cyfrin.io/courses/uniswap-v2) 
-Advanced Web3 Security Course - Part 1 | Owen Thrum's Course on Advancing as SR | [Resource Link](https://www.youtube.com/watch?v=DRZogmD647U) |
-Advanced Web3 Security Course - Part 2 |  Owen Thrum's Course on Advancing as SR | [Resource Link](https://www.youtube.com/watch?v=zLnxRvf6IMA) |
-Smart Contract Security	| Smart Contract Security Cyfrin Updraft course | [Resource Link](https://updraft.cyfrin.io/courses/security) |
-Smart Contract Development | Smart Contract Development Cyfrin Updraft course | [Resource Link](https://updraft.cyfrin.io/courses/advanced-foundry)
-DeFi & Solidity | Solidity Docs | [Resource Link](https://docs.soliditylang.org/en/v0.8.23/index.html#solidity) |
-Mastering Ethereum | Book | [Resource Link](https://github.com/ethereumbook/ethereumbook)|
+| BIFY                | ✳️ Solidity, EVM Compatible | NFT Market Place | - | 30 Issues (13H, 11M, 4L, 1L) | Soon 📄
