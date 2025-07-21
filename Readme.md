@@ -37,4 +37,4 @@ Currently, from Jan 2024 onwards, I'm doing smart contract security learnings an
 | :---------------------------------------------------------------- | :------------------------ | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
 | Daos Live           | ✳️ Solidity, Abstract chain | DAOs Launchpad, Vesting | Shieldify  | 21 Issues (2C, 4H, 4M, 7L, 4I) | [📄](https://github.com/shieldify-security/audits-portfolio-md/blob/main/DaosLive-Security-Review.md)
 | Gatekeeper           | 🦀 Rust, Solana chain | Cross Program Invocation | Pashov  | 7 Issues (2C, 2M, 4L) | Soon 📄
-| BIFY                | ✳️ Solidity, EVM Compatible | NFT Market Place | - | 30 Issues (13H, 11M, 4L, 1L) | Soon 📄
+| BIFY                | ✳️ Solidity, EVM Compatible | NFT Marketplace | - | 30 Issues (13H, 11M, 4L, 12) | Soon 📄
