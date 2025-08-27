@@ -33,6 +33,6 @@ For an audit, reach out via:
 | :---------------------------------------------------------------- | :------------------------ | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
 | Daos Live           | ✳️ Solidity, Abstract chain | DAOs Launchpad, Vesting | Shieldify  | 21 Issues (2C, 4H, 4M, 7L, 4I) | [📄](https://github.com/shieldify-security/audits-portfolio-md/blob/main/DaosLive-Security-Review.md)
 | Gatekeeper           | 🦀 Rust, Solana chain | Cross Program Invocation | Pashov  | 7 Issues (2C, 2M, 4L) | [📄](https://github.com/pashov/audits/blob/master/team/pdf/Gatekeeper-security-review_2025-06-28.pdf)
-| BIFY                | ✳️ Solidity, EVM Compatible | NFT Marketplace | Radcipher | 30 Issues (13H, 11M, 4L, 12) | Soon 📄
-| QuakeCash           | ✳️ Solidity, EVM Compatible | Risk Management Yield Aggregator | Private Client | 12 Issues (2H, 4M, 4L, 2I) | Soon 📄
-| QuakeCash-Mitigation | ✳️ Solidity, EVM Compatible | Risk Management Yield Aggregator | Private Client | 7 Issues (3L, 4I) | Soon 📄
+| BIFY                | ✳️ Solidity, EVM Compatible | NFT Marketplace | Radcipher | 30 Issues (13H, 11M, 4L, 12) | [📄](https://github.com/radcipher/radcipher/blob/main/reports/private-audits/pdf/2025-07-19-Bify-Audit-Report.pdf)
+| QuakeCash           | ✳️ Solidity, EVM Compatible | Risk Management Yield Aggregator | Private Client | 12 Issues (2H, 4M, 4L, 2I) | [📄](https://github.com/Parthmandale/Private-Audits/blob/main/QuakeCash%20Audit%20Report.pdf)
+| QuakeCash-Mitigation | ✳️ Solidity, EVM Compatible | Risk Management Yield Aggregator | Private Client | 7 Issues (3L, 4I) | [📄](https://github.com/Parthmandale/Private-Audits/blob/main/QuakeCash%20Mitigation%20Audit%20Report%20.pdf)
