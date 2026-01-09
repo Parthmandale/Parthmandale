@@ -39,3 +39,4 @@ For an audit, reach out via:
 | Noble | ✳️ Solidity, EVM Compatible | Yield bearing Stable Coin | Sherlock-Collaborative | 4 Issues (1M, 3L) | Soon |
 | Timeswap-V3 | ✳️ Solidity, EVM Compatible | Timeswap-V3 Ecosystem | Sherlock-Collaborative | 30+ Issues | Soon |
 | Mangrove Chainlink Aggregator | ✳️ Solidity, EVM Compatible | Chainlink oracle Integration | ThreeSigma | 2 Issues (1L, 1I) | [📄](https://github.com/user-attachments/files/24141724/Mangrove.pdf)
+| Football Fun | ✳️ Solidity, EVM Compatible | fantasy sports | Sherlock-Collaborative | 5 Issues | Soon | 
