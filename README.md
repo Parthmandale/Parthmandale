@@ -31,6 +31,7 @@ For an audit, reach out via:
 
 | Protocol                                                         | Ecosystem      | Description | Provider   | Findings |                         Report                    |  
 | :---------------------------------------------------------------- | :------------------------ | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
+| Altura | ✳️ HyperEVM | Multi-strategy trading framework | Sherlock-Collaborative | 2 Issues | Soon |
 | Fluent | ✳️ EVM Compatible | Blended execution network | Sherlock-Collaborative | 4 Issues (1M, 2L, 1I) Issues | Soon |
 | Altura | ✳️ HyperEVM | Multi-strategy trading framework | Sherlock-Collaborative | 8 Issues (4M, 3L) | Soon |
 | Football Fun | ✳️ EVM Compatible | fantasy sports | Sherlock-Collaborative | 5 Issues | Soon | 
