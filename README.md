@@ -6,8 +6,8 @@ I'm a security researcher with a proven track record of consistently uncovering 
 I have experience in auditing projects in the categories of **Lending-Borrowing, Vaults, DAO, Cross-Contract chains, Staking/Restaking, Vesting, Yield Aggregator, Stablecoin, Auctions, and typical Defi Protocols**.
 
 For an audit, reach out via:
-- Twitter: [https://twitter.com/ParthMandale](https://twitter.com/ParthMandale)
-- Telegram: [https://t.me/ParthMandale](https://t.me/ParthMandale)
+- Twitter: [https://twitter.com/ParthMandale](https://twitter.com/Parth0x108)
+- Telegram: [https://t.me/ParthMandale](https://t.me/Parth0x10)
 
 ### Top Protocols Secured
 - [Silo Finance V2](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/leaderboard) 1st Rank🥇
